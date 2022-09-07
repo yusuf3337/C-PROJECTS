@@ -1,2 +1,2 @@
-# Oy-Kullanma-Yetkinli-i
-Seçimler İçin Yaş Hesaplaması
+# Oy-Kullanma-Yetkinligi
+Secimler Icin Yas Hesaplamasi
