@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[]) {
+	
+	int yas = 0;
+	printf("Yasinizi Giriniz :\n");
+	
+	scanf("%d",&yas);
+
+	//EFFECT
+	printf("HESAPLANIYOR........................................>TAMAMLANDI!\n\n\n\n\n");
+	
+	
+	if (yas < 18){
+	
+	printf("Oy kullanamazsiniz");
+}
+	
+	else{
+		printf("Oy Kullanabilirsiniz");
+	}
+	
+																																																				//YUSUF ÇEPNİ -@yusuf3337
+	
+	return 0;
+}
