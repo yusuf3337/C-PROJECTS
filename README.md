@@ -1,2 +1,1 @@
-C Programming Projects
-F@ck yea
+Oy kullanabilme/kullanamama hesaplamayan program
