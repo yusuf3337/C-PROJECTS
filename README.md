@@ -1,2 +1,2 @@
-# Oy-Kullanma-Yetkinligi
-Seçimler İçin Yaş Hesaplaması
+C Programming Projects
+F@ck yea
